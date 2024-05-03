@@ -1,4 +1,4 @@
-package javaCollectionsPesquisaList.Soma;
+package List.javaCollectionsPesquisaList.Soma;
 
 import java.util.ArrayList;
 import java.util.List;
